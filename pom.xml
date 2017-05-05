@@ -36,11 +36,6 @@
             <groupId>ome</groupId>
             <artifactId>formats-gpl</artifactId>
         </dependency>
-        <dependency>
-            <groupId>ome</groupId>
-            <artifactId>bioformats_package</artifactId>
-            <version>${bioformats.version}</version>
-        </dependency>
     </dependencies>
 
     <repositories>
